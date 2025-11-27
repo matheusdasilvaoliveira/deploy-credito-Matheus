@@ -8,7 +8,7 @@ from plotly.subplots import make_subplots
 
 # Configuração da página
 st.set_page_config(
-    page_title="Matheus",
+    page_title="Sistema de Análise de Crédito",
     page_icon="💳",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -116,7 +116,7 @@ def criar_gauge_chart(probabilidade):
     return fig
 
 # Título principal
-st.markdown('<h1 class="main-header">💳 Sistema de Análise de Crédito</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="main-header">💳 Matheus</h1>', unsafe_allow_html=True)
 
 # Subtítulo
 st.markdown("### 🤖 Análise Inteligente com Machine Learning")
