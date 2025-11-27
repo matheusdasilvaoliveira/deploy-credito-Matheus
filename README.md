@@ -8,7 +8,7 @@
 
 ## 🌐 Aplicação Online
 
-**🚀 Acesse a aplicação:** [https://seu-nome-credito.streamlit.app](https://seu-nome-credito.streamlit.app)
+**🚀 Acesse a aplicação:** [https://credito-matheus.streamlit.app](https://credito-matheus.streamlit.app)
 
 > 💡 **Dica:** Substitua a URL acima pela URL real da sua aplicação após o deploy
 
